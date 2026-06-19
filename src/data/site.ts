@@ -11,7 +11,7 @@ export const siteConfig = {
   email: "sowmya130302@gmail.com",
   github: "https://github.com/Sowmyanr",
   linkedin: "https://www.linkedin.com/in/sowmya-n-r-b8b388257",
-  resumeUrl: "/resume.pdf",
+  resumeUrl: "/sowmya_nr.pdf",
   url: "https://sowmyanr.dev",
   location: "Bangalore, India",
   openToOpportunities: true,
@@ -29,5 +29,5 @@ export const navLinks = [
   { label: "Experience", href: "#experience" },
   { label: "Skills", href: "#skills" },
   { label: "Contact", href: "#contact" },
-  { label: "Resume", href: "/resume.pdf", download: true },
+  { label: "Resume", href: "/sowmya_nr.pdf", download: true },
 ] as const;
